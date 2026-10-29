@@ -1,0 +1,10 @@
+{
+  "client_id": "https://emirkvnn.github.io/anlatilmayan-oauth/client-metadata.json",
+  "client_name": "Anlatılmayan Dashboard",
+  "client_uri": "https://www.youtube.com/@anlatilmayantr",
+  "redirect_uris": ["http://127.0.0.1:53682/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "image_video_generation flows text_to_speech voice_generation speech_history_read"
+}
